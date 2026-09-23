@@ -1,0 +1,9 @@
+Hello
+This is my Java encryption program.
+Welcome to CDAC.
+
+
+
+Assignment:
+Create a menu driven program for Encryption and Decryption of Text files, user selects Encryption the text file shoulb be read and converted to a non readable format and stored in a file>
+When he selects Decrypt, the encrypted file should be decrypted to its original format
